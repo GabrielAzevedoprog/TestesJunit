@@ -46,4 +46,8 @@ public class Conta {
     public String getTitular() {
         return titular;
     }
+
+    public double getSaldo() {
+        return saldo;
+    }
 }
